@@ -1,0 +1,16 @@
+PODS:
+  - Floaty (4.0.1)
+
+DEPENDENCIES:
+  - Floaty
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Floaty
+
+SPEC CHECKSUMS:
+  Floaty: 82854e1a5ef4fa208281ebd4da2f3d1e51ba67a6
+
+PODFILE CHECKSUM: 02379650dcf78099a622861d1d83700aee6bb5b8
+
+COCOAPODS: 1.5.3
